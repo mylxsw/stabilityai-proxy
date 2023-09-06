@@ -1,4 +1,4 @@
-# DeepAI 免翻墙代理
+# Stability.ai 免翻墙代理
 
 ## 自己部署
 
